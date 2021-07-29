@@ -1,5 +1,2 @@
 # ChuckController
-# ChuckController
-# ChuckController
-# ChuckController
-# ChuckController
+added a index.html so git knows where the root is
