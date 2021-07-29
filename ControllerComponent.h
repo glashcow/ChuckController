@@ -59,6 +59,7 @@ public:
     void clickChuckToggle();
 
     void setPort(short port) {
+        oscManager = nullptr;
         oscManager = new OscManager(port);
     }
 
